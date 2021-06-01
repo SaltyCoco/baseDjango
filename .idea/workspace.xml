@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55cb20c6-c04e-4d59-b87d-fe2346b0e198" name="Default Changelist" comment="" />
+    <list default="true" id="55cb20c6-c04e-4d59-b87d-fe2346b0e198" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baseDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/baseDjango/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1tEWVO8ZyNUl2lxs0tXGPdIn21l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -19,8 +27,9 @@
     <property name="ACTIVE_CLOUD_PROJECT_NAME" value="fastapidevgcp" />
     <property name="ACTIVE_CLOUD_PROJECT_NUMBER" value="629169930773" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.google.cloudcode.ide_session_index" value="20210531_0001" />
+    <property name="com.google.cloudcode.ide_session_index" value="20210601_0000" />
     <property name="settings.editor.selected.configurable" value="aws" />
   </component>
   <component name="RunManager">
@@ -61,6 +70,7 @@
       <updated>1622334751881</updated>
       <workItem from="1622334758684" duration="229000" />
       <workItem from="1622519592004" duration="1260000" />
+      <workItem from="1622563083457" duration="745000" />
     </task>
     <servers />
   </component>
